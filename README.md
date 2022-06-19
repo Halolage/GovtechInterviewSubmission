@@ -18,4 +18,4 @@ Uploaded slides to Folder in github named 'Section 3'
 
 Section 4
 
-Uploaded screenshots to 'Section 4'. Used Postman in-build visualiser function to display graph using graph.js library. 
+Uploaded screenshots to 'Section 4'. Used Postman in-build visualiser function to display graph using graph.js library after GET API. 
